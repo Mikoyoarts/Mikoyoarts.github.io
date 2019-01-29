@@ -1,12 +1,5 @@
----
-title: "About"
-permalink: /about/
-author_profile: true
-header:
-  image: "/images/techi.jpg"
----
 
-## Objective
+## Objective:
 I am ready to assist with solutions to your computing problems
 using my diverse skills in various hardware
 and software technologies.
