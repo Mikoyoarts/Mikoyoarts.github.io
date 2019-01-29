@@ -1,4 +1,6 @@
 ---
+layout: single
+author_profile: true
 title: "About"
 permalink: /about/
 header:
@@ -21,4 +23,4 @@ My skills cover a number of various computing technologies which includes
 4. Moodle
 - Graphics Design
 1. CorelDraw
-2. Adobe Photoshop 
+2. Adobe Photoshop
