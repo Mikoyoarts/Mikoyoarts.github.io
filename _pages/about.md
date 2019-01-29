@@ -1,3 +1,10 @@
+---
+title: "About"
+permalink: /about/
+author_profile: true
+header:
+  image: "/images/techi.jpg"
+---
 
 ## Objective:
 I am ready to assist with solutions to your computing problems
