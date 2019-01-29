@@ -4,7 +4,6 @@ permalink: /about/
 author_profile: true
 header:
   image: "/images/techi.jpg"
-
 ---
 
 ## Objective:
