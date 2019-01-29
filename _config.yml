@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Onoduenyi Chigozie Micheal"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/link.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Tech Solution is my Identity"
   location         : "Abuja, Nigeria"
   email            :
