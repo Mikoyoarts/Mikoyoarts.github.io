@@ -3,7 +3,7 @@ title: "About"
 permalink: /about/
 author_profile: true
 header:
-  image: "/images/techi.jpg"
+  image: "/images/test.jpg"
 ---
 
 I am ready to assist with solutions to your computing problems
