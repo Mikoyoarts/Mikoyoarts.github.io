@@ -17,11 +17,11 @@ My skills cover a number of various computing technologies which includes
 * Programming:
 1. Microsoft Visual Basic.net
 2. Python
-+ Web Design using Content Management System (CMS)
++ Web Design using Content Management System (CMS):
 1. WordPress
 2. Joomla
 3. Drupal
 4. Moodle
-- Graphics Design
+- Graphics Design:
 1. CorelDraw
 2. Adobe Photoshop
