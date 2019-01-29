@@ -303,5 +303,5 @@ defaults:
       path: ""
       type: Pages
     values:
-      layout: single
+      layout: archives
       author_profile: true
